@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/media_bottom_sheet"
+    android:background="@drawable/bg_media_player"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="@dimen/bottom_sheet_peek_height">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="@dimen/dp_0"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_media_header"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="@dimen/bottom_sheet_music_icon_height"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/ic_music_note"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/bottom_sheet_header_name"
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:fontFamily="@font/semi_bold"
+            android:paddingTop="@dimen/bottom_sheet_header_name_vertical_padding"
+            android:paddingBottom="@dimen/bottom_sheet_header_name_vertical_padding"
+            android:text="@string/player_name"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/bottom_sheet_header_name_font_size" />
+
+        <TextView
+            android:id="@+id/bottom_sheet_header_status"
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:fontFamily="@font/semi_bold"
+            android:paddingStart="0dp"
+            android:paddingTop="@dimen/bottom_sheet_header_status_start_padding"
+            android:paddingEnd="@dimen/bottom_sheet_header_status_end_padding"
+            android:paddingBottom="@dimen/bottom_sheet_header_status_vertical_padding"
+            android:text="@string/player_status"
+            android:textAlignment="textEnd"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/bottom_sheet_header_status_font_size" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_recording_file"
+        android:layout_width="@dimen/dp_0"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/semi_bold"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/bottom_sheet_playing_file_font_size"
+        android:textAlignment="center"
+        android:layout_marginEnd="@dimen/bottom_sheet_playing_file_horizontal_padding"
+        android:layout_marginStart="@dimen/bottom_sheet_playing_file_horizontal_padding"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <ImageButton
+        android:id="@+id/btn_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="@dimen/bottom_sheet_play_button_padding"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_recording_file"
+        app:srcCompat="@drawable/icon_player_play"
+        android:layout_marginTop="@dimen/bottom_sheet_play_button_top_margin"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/btn_forward"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_play"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btn_play"
+        app:layout_constraintTop_toTopOf="@+id/btn_play"
+        app:srcCompat="@drawable/icon_player_skip_next"
+        android:padding="@dimen/bottom_sheet_next_button_padding"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/btn_rewind"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/bottom_sheet_previous_button_padding"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_play"
+        app:layout_constraintEnd_toStartOf="@+id/btn_play"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btn_play"
+        app:srcCompat="@drawable/icon_player_skip_previous"
+        tools:ignore="ContentDescription" />
+
+    <SeekBar
+        android:id="@+id/media_progress"
+        android:layout_width="@dimen/dp_0"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tv_total_time"
+        app:layout_constraintStart_toEndOf="@+id/tv_elapsed_time"
+        app:layout_constraintTop_toBottomOf="@+id/btn_play"
+        android:layout_marginTop="@dimen/bottom_sheet_seek_bar_vertical_padding"
+        android:layout_marginBottom="@dimen/bottom_sheet_seek_bar_vertical_padding"/>
+
+    <TextView
+        android:id="@+id/tv_elapsed_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/bottom_sheet_elapsed_time_start_margin"
+        android:fontFamily="@font/semi_bold"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/bottom_sheet_elapsed_time_font_size"
+        app:layout_constraintBottom_toBottomOf="@+id/media_progress"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/media_progress" />
+
+    <TextView
+        android:id="@+id/tv_total_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/bottom_sheet_total_time_end_margin"
+        android:fontFamily="@font/semi_bold"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/bottom_sheet_total_time_font_size"
+        app:layout_constraintBottom_toBottomOf="@+id/media_progress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/media_progress" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+
+    <!-- Record Screen -->
+    <string name="recording_started">Recording Started …</string>
+    <string name="file_saved_as">File Saved As :\n</string>
+    <string name="press_the_mic">Press the mic button\nto start recording</string>
+    <string name="alert_stop_recording">Are you sure want to stop recording?</string>
+    <string name="alert_no">NO</string>
+    <string name="alert_yes">YES</string>
+
+    <!-- Custom Bottom Sheet -->
+    <string name="player_name">Recording Player</string>
+    <string name="player_status">Not Playing</string>
+
+    <!-- Recordings Screen-->
+    <string name="no_recordings">No Recordings to listen…</string>
+</resources>

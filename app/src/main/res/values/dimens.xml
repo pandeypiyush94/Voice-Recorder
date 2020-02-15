@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_item_icon_size">24dp</dimen>
+
+    <!--Generic Dimensions-->
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+
+    <!--Generic Font Sizes-->
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_64">64sp</dimen>
+
+    <!--Custom Bottom Sheet-->
+    <dimen name="bottom_sheet_peek_height">@dimen/dp_64</dimen>
+    <dimen name="bottom_sheet_music_icon_height">@dimen/dp_36</dimen>
+
+    <dimen name="bottom_sheet_play_button_padding">@dimen/dp_4</dimen>
+    <dimen name="bottom_sheet_next_button_padding">@dimen/dp_4</dimen>
+    <dimen name="bottom_sheet_previous_button_padding">@dimen/dp_4</dimen>
+    <dimen name="bottom_sheet_seek_bar_vertical_padding">@dimen/dp_32</dimen>
+    <dimen name="bottom_sheet_header_status_end_padding">@dimen/dp_24</dimen>
+    <dimen name="bottom_sheet_header_status_start_padding">@dimen/dp_0</dimen>
+    <dimen name="bottom_sheet_header_name_vertical_padding">@dimen/dp_24</dimen>
+    <dimen name="bottom_sheet_header_status_vertical_padding">@dimen/dp_24</dimen>
+    <dimen name="bottom_sheet_playing_file_horizontal_padding">@dimen/dp_32</dimen>
+
+    <dimen name="bottom_sheet_total_time_end_margin">@dimen/dp_24</dimen>
+    <dimen name="bottom_sheet_play_button_top_margin">@dimen/dp_16</dimen>
+    <dimen name="bottom_sheet_elapsed_time_start_margin">@dimen/dp_24</dimen>
+
+    <dimen name="bottom_sheet_total_time_font_size">@dimen/sp_12</dimen>
+    <dimen name="bottom_sheet_header_name_font_size">@dimen/sp_16</dimen>
+    <dimen name="bottom_sheet_elapsed_time_font_size">@dimen/sp_12</dimen>
+    <dimen name="bottom_sheet_playing_file_font_size">@dimen/sp_16</dimen>
+    <dimen name="bottom_sheet_header_status_font_size">@dimen/sp_16</dimen>
+
+    <!--Record Screen-->
+    <dimen name="reset_text_loader_height">@dimen/dp_24</dimen>
+
+    <dimen name="header_img_top_margin">@dimen/dp_48</dimen>
+    <dimen name="press_the_mic_top_margin">@dimen/dp_48</dimen>
+    <dimen name="press_the_mic_horizontal_margin">@dimen/dp_32</dimen>
+    <dimen name="timer_top_margin">@dimen/dp_24</dimen>
+    <dimen name="list_btn_padding">@dimen/dp_16</dimen>
+
+    <dimen name="press_the_mic_font_size">@dimen/sp_18</dimen>
+    <dimen name="timer_font_size">@dimen/sp_64</dimen>
+
+    <!-- Recordings Screen-->
+    <dimen name="empty_view_top_margin">@dimen/dp_24</dimen>
+    <dimen name="empty_view_drawable_padding">@dimen/dp_16</dimen>
+
+    <dimen name="empty_view_font_size">@dimen/sp_20</dimen>
+
+    <!-- Recording Item-->
+    <dimen name="item_top_padding">@dimen/dp_2</dimen>
+    <dimen name="item_img_vertical_margin">@dimen/dp_16</dimen>
+    <dimen name="item_img_start_margin">@dimen/dp_16</dimen>
+    <dimen name="duration_start_margin">@dimen/dp_16</dimen>
+    <dimen name="recording_start_margin">@dimen/dp_16</dimen>
+    <dimen name="time_start_margin">@dimen/dp_16</dimen>
+    <dimen name="line_top_margin">@dimen/dp_8</dimen>
+    <dimen name="more_end_margin">@dimen/dp_8</dimen>
+    <dimen name="more_padding">@dimen/dp_4</dimen>
+
+    <dimen name="time_font_size">@dimen/sp_16</dimen>
+    <dimen name="duration_font_size">@dimen/sp_14</dimen>
+    <dimen name="recording_font_size">@dimen/sp_16</dimen>
+
+</resources>

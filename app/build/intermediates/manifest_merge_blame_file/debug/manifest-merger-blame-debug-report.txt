@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.piyush.apps.voicerecorder"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:6:5-70
+11-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:7:5-80
+12-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:8:22-77
+14
+15    <application
+15-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:10:5-35:19
+16        android:allowBackup="false"
+16-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:11:9-36
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/app_logo"
+19-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:12:9-40
+20        android:label="@string/app_name"
+20-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:13:9-41
+21        android:requestLegacyExternalStorage="true"
+21-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:18:9-52
+22        android:roundIcon="@mipmap/app_logo"
+22-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:14:9-45
+23        android:supportsRtl="true"
+23-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:16:9-40
+26        <activity android:name="com.piyush.apps.voicerecorder.VoiceRecorderActivity" >
+26-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:19:9-24:20
+26-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:19:19-56
+27            <intent-filter>
+27-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:20:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:21:17-69
+28-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:22:17-77
+30-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:25:9-33:20
+35            android:name="com.piyush.apps.voicerecorder.AppFileProvider"
+35-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:26:13-44
+36            android:authorities="com.piyush.apps.voicerecorder.fileprovider"
+36-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:27:13-77
+37            android:exported="false"
+37-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:28:13-37
+38            android:grantUriPermissions="true" >
+38-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:29:13-47
+39            <meta-data
+39-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:30:13-32:58
+40                android:name="android.support.FILE_PROVIDER_PATHS"
+40-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:31:17-67
+41                android:resource="@xml/provider_paths" />
+41-->D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:32:17-55
+42        </provider>
+43    </application>
+44
+45</manifest>

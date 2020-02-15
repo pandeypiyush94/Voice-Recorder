@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6177FC</color>
+    <color name="colorPrimaryDark">#576EF7</color>
+    <color name="colorAccent">#FF6584</color>
+
+    <color name="colorDarkBlue">#3D4054</color>
+
+    <color name="dark_grey">#bbbbbb</color>
+    <color name="light_gray">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="delete_color">@color/white</color>
+    <color name="line_color">@color/light_gray</color>
+    <color name="disabled_color">@color/dark_grey</color>
+    <color name="play_icon_color">@color/white</color>
+    <color name="next_icon_color">@color/white</color>
+    <color name="more_icon_color">@color/dark_grey</color>
+    <color name="pause_icon_color">@color/white</color>
+    <color name="previous_icon_color">@color/white</color>
+    <color name="music_note_icon_color">@color/white</color>
+</resources>

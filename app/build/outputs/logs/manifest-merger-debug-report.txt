@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3874708570574c8a3558006d1cb2a5c1\navigation-ui-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e2fce296d6a988227c4e9058e23c75c5\jetified-navigation-ui-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.0-alpha04] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bebfc6faa91ca0572db245c9d56231c2\material-1.2.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\93bc303e0edf41378a70a682ebb74605\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c76cbb544d4c70486c31d9f6c001c2\navigation-fragment-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9805cbd3fde31e127b6a9378cc50a060\fragment-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24cd1c8d96000fc7d9d045c2c72fa2ac\navigation-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\ec7ba19e71dc97add086037f2ab67bc0\activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\d9fd0f9d2413d1485b690ac340fd0bdd\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\233c4c820268538a6a4ea956aecdd7d0\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e9ce88f881faffe32c29d049ab8ba69d\navigation-common-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5d61c2052db11cc978bdc73b4d43cc67\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\30b83d8b9cbb95cbd47ba567a2892351\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\929e16298b072e38115411c8156ed26a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b08f47ec7f7853b48a9a1010edaf7c7b\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24dca681329175a03d53e389a45c201a\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\50dbf37e10b7bd5c1bf2c0fff2d83243\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0aa511544b3ee110c63a1446fbe2c5e4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\274acdc0d817a44b6077111eeefc26ce\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2444e4ac8bf5e41fc0222e63298b7bae\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\351c558716eb473e08b591edfbe1c40e\navigation-fragment-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b94e03b6f379fc9ae5a10b6e712454aa\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5638f67204bdecab3dcc7d3fa7649c63\navigation-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3ea2eb90c590662d8d1ba78b6f5ba706\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2e2627d2aff932f6c1d4b3453e8bc895\navigation-common-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1d8fe840dab6c76a7d7cb21e5e369e61\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\875f7dcdcf6b0cc37a792b7d63ba7eee\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b0af4bd25e8bd0125497169244a78c79\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dd3da2d40d403b697ce6b13393fbcf57\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\8a7a22c908a2d1ccae1ad684204024af\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\7c6636ec62ad2c4f482a80212e8dde81\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bd00772a4b1876227580afb7b5d45ed9\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.google.android.material:material:1.2.0-alpha04] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bebfc6faa91ca0572db245c9d56231c2\material-1.2.0-alpha04\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha04] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bebfc6faa91ca0572db245c9d56231c2\material-1.2.0-alpha04\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:14:9-45
+	android:icon
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:12:9-40
+	android:allowBackup
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.piyush.apps.voicerecorder.VoiceRecorderActivity
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:19:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:22:27-74
+provider#com.piyush.apps.voicerecorder.AppFileProvider
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:27:13-77
+	android:exported
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:26:13-44
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:30:13-32:58
+	android:resource
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:32:17-55
+	android:name
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml:31:17-67
+uses-sdk
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3874708570574c8a3558006d1cb2a5c1\navigation-ui-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3874708570574c8a3558006d1cb2a5c1\navigation-ui-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e2fce296d6a988227c4e9058e23c75c5\jetified-navigation-ui-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e2fce296d6a988227c4e9058e23c75c5\jetified-navigation-ui-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.0-alpha04] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bebfc6faa91ca0572db245c9d56231c2\material-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha04] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bebfc6faa91ca0572db245c9d56231c2\material-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\93bc303e0edf41378a70a682ebb74605\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\93bc303e0edf41378a70a682ebb74605\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c76cbb544d4c70486c31d9f6c001c2\navigation-fragment-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c76cbb544d4c70486c31d9f6c001c2\navigation-fragment-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9805cbd3fde31e127b6a9378cc50a060\fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9805cbd3fde31e127b6a9378cc50a060\fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24cd1c8d96000fc7d9d045c2c72fa2ac\navigation-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24cd1c8d96000fc7d9d045c2c72fa2ac\navigation-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\ec7ba19e71dc97add086037f2ab67bc0\activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\ec7ba19e71dc97add086037f2ab67bc0\activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\d9fd0f9d2413d1485b690ac340fd0bdd\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\d9fd0f9d2413d1485b690ac340fd0bdd\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\233c4c820268538a6a4ea956aecdd7d0\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\233c4c820268538a6a4ea956aecdd7d0\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e9ce88f881faffe32c29d049ab8ba69d\navigation-common-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e9ce88f881faffe32c29d049ab8ba69d\navigation-common-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5d61c2052db11cc978bdc73b4d43cc67\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5d61c2052db11cc978bdc73b4d43cc67\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\30b83d8b9cbb95cbd47ba567a2892351\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\30b83d8b9cbb95cbd47ba567a2892351\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\929e16298b072e38115411c8156ed26a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\929e16298b072e38115411c8156ed26a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b08f47ec7f7853b48a9a1010edaf7c7b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b08f47ec7f7853b48a9a1010edaf7c7b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24dca681329175a03d53e389a45c201a\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\24dca681329175a03d53e389a45c201a\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\50dbf37e10b7bd5c1bf2c0fff2d83243\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\50dbf37e10b7bd5c1bf2c0fff2d83243\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0aa511544b3ee110c63a1446fbe2c5e4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\0aa511544b3ee110c63a1446fbe2c5e4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\274acdc0d817a44b6077111eeefc26ce\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\274acdc0d817a44b6077111eeefc26ce\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2444e4ac8bf5e41fc0222e63298b7bae\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2444e4ac8bf5e41fc0222e63298b7bae\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\351c558716eb473e08b591edfbe1c40e\navigation-fragment-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\351c558716eb473e08b591edfbe1c40e\navigation-fragment-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b94e03b6f379fc9ae5a10b6e712454aa\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b94e03b6f379fc9ae5a10b6e712454aa\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5638f67204bdecab3dcc7d3fa7649c63\navigation-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\5638f67204bdecab3dcc7d3fa7649c63\navigation-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3ea2eb90c590662d8d1ba78b6f5ba706\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\3ea2eb90c590662d8d1ba78b6f5ba706\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2e2627d2aff932f6c1d4b3453e8bc895\navigation-common-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2e2627d2aff932f6c1d4b3453e8bc895\navigation-common-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1d8fe840dab6c76a7d7cb21e5e369e61\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\1d8fe840dab6c76a7d7cb21e5e369e61\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\875f7dcdcf6b0cc37a792b7d63ba7eee\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\875f7dcdcf6b0cc37a792b7d63ba7eee\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b0af4bd25e8bd0125497169244a78c79\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\b0af4bd25e8bd0125497169244a78c79\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dd3da2d40d403b697ce6b13393fbcf57\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\dd3da2d40d403b697ce6b13393fbcf57\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\8a7a22c908a2d1ccae1ad684204024af\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\8a7a22c908a2d1ccae1ad684204024af\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\7c6636ec62ad2c4f482a80212e8dde81\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\7c6636ec62ad2c4f482a80212e8dde81\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bd00772a4b1876227580afb7b5d45ed9\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Techolution\.gradle\caches\transforms-2\files-2.1\bd00772a4b1876227580afb7b5d45ed9\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1.Work\Others\VoiceRecorder\app\src\main\AndroidManifest.xml

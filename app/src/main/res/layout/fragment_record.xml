@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".RecordFragment">
+
+    <ImageView
+        android:id="@+id/iv_header"
+        android:src="@drawable/vr_home_illustration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/header_img_top_margin"
+        tools:ignore="ContentDescription" />
+    <TextView
+        android:id="@+id/tv_recording_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/press_the_mic"
+        android:fontFamily="@font/semi_bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_header"
+        android:layout_marginStart="@dimen/press_the_mic_horizontal_margin"
+        android:layout_marginEnd="@dimen/press_the_mic_horizontal_margin"
+        android:layout_marginTop="@dimen/press_the_mic_top_margin"
+        android:textSize="@dimen/press_the_mic_font_size"
+        android:textAlignment="center" />
+
+    <Chronometer
+        android:id="@+id/cm_timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/timer_top_margin"
+        android:fontFamily="@font/light"
+        android:textColor="@color/colorDarkBlue"
+        android:textSize="@dimen/timer_font_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_recording_text" />
+
+    <ImageButton
+        android:id="@+id/btn_record"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/record_btn_stopped"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cm_timer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/btn_list"
+        android:src="@drawable/icon_list_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/btn_record"
+        app:layout_constraintBottom_toBottomOf="@id/btn_record"
+        app:layout_constraintStart_toEndOf="@id/btn_record"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:padding="@dimen/list_btn_padding"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        tools:ignore="ContentDescription" />
+
+    <ProgressBar
+        android:id="@+id/reset_text_loader"
+        style="?android:attr/progressBarStyle"
+        android:indeterminateDrawable="@drawable/bg_reset_text_loader"
+        android:indeterminateDuration="2000"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/reset_text_loader_height"
+        android:visibility="invisible"
+        android:max="100"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_recording_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tv_recording_text"
+        app:layout_constraintTop_toTopOf="@+id/tv_recording_text" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

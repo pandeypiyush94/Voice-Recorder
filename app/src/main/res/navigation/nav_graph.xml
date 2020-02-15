@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/recordFragment">
+
+    <fragment
+        android:id="@+id/recordFragment"
+        android:name="com.piyush.apps.voicerecorder.RecordFragment"
+        android:label="fragment_record"
+        tools:layout="@layout/fragment_record" >
+        <action
+            android:id="@+id/action_recordFragment_to_recordListFragment"
+            app:destination="@id/recordListFragment"
+            app:exitAnim="@anim/vr_fade_out"
+            app:popEnterAnim="@anim/vr_fade_in"
+            app:enterAnim="@anim/vr_slide_in"
+            app:popExitAnim="@anim/vr_slide_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/recordListFragment"
+        android:name="com.piyush.apps.voicerecorder.RecordListFragment"
+        android:label="fragment_record_list"
+        tools:layout="@layout/fragment_record_list" />
+</navigation>
